@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1760722699 source:c:\users\aluno\desktop\teste git\teste\main.c
+	"raylib.h"
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
